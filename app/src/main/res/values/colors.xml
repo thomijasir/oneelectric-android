@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285f4</color>
+    <color name="colorPrimaryDark">#3367D6</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="bg_screen1"> #2F3853 </color>
+    <color name="bg_screen2"> #C2D7E4 </color>
+
+    <color name="warna1"> #ffff </color>
+    <color name="warna2"> #F16769 </color>
+    <color name="warna3">#2F3853</color>
+    <color name="warna4">#F2F8F9</color>
+    <color name="warna5">#1D232A</color>
+    <color name="warna6">#FAA41A</color>
+    <color name="warna7">#0381FB</color>
+</resources>
